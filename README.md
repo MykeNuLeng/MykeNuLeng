@@ -24,6 +24,8 @@ I'm doing this to practice using a MERN stack, not becasue I have a burning desi
 
 If you've not yet seen it, here's my [CV](./CV.pdf), my contact details are included at the bottom! 😉
 
+My pronouns are he/him, and I hope you have a great day! ❤
+
 <!--
 **MykeNuLeng/MykeNuLeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,11 @@
 ### Hey, Hello, Hi! ✌
-If you've found yourself on this page, I'm going to go out on a limb and assume you're either a friend snooping, or hopefully a potential employer trying to get a better feel for who I am! 
-To the latter, I hope this brief README gives you all the information you need! If not, maybe interviewing me would help you figure that out? 
 
+If you've found yourself on this page, I'm going to go out on a limb and assume you're either:
 
+1. A friend snooping.
+2. A potential employer trying to get a better feel for who I am!
 
-
+To the latter, I hope this brief README gives you all the information you need! If not, hear me out here, maybe interviewing me would help you figure that out?
 
 <!--
 **MykeNuLeng/MykeNuLeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,8 +7,7 @@ If you've found yourself on this page, I'm going to go out on a limb and assume 
 
 To the latter, I hope this brief README gives you all the information you need! If not, hear me out here, maybe interviewing me would help you figure that out?
 
-🔭 I’m currently working on a Twitter clone, [chitter](https://github.com/MykeNuLeng/Chitter-2.0)
-I'm doing this to practice using a MERN stack, not becasue I have a burning desire to create another CRUD app! 💀
+🔭 I’m currently working on a Twitter clone, [Chitter](https://github.com/MykeNuLeng/Chitter-2.0) - I'm doing this to practice using a MERN stack, not becasue I have a burning desire to create another CRUD app! 💀
 
 ✔ My most recent project was [cybrdrag](https://github.com/ehwus/cybrdrag), which is a fantasy football style browser game, where you find yourself as an investor choosing between an eclectic group of randomly generated drag queens.
 

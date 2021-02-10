@@ -16,11 +16,14 @@ I'm doing this to practice using a MERN stack, not becasue I have a burning desi
 
 📚In 2021 I want to learn the following:
 
-- React (I've already started on this one!) - My first front end framework that'll allow me to see my projects come to life!
-- Python - There's only so many times that I can hear it's amazing for data science before I'm drawn to it like a moth to a flame.
-- Django - You only have to browse through a handful of companies tech stacks before you see Django mentioned, and I want to see what all the fuss is about!
-- GraphQL - A front end framework to handle those stunning apis.
-- Haskell - When I heard about lambda calculus, you already know I had to add this to the list.
+- [] React (I've already started on this one!) - My first front end framework that'll allow me to see my projects come to life!
+- [] Python - There's only so many times that I can hear it's amazing for data science before I'm drawn to it like a moth to a flame.
+- [] Django - You only have to browse through a handful of companies tech stacks before you see Django mentioned, and I want to see what all the fuss is about!
+- [] GraphQL - A front end framework to handle those stunning apis.
+- [] Haskell - When I heard about lambda calculus, you already know I had to add this to the list.
+
+If you've not yet seen it, here's my [CV](./CV.pdf), my contact details are included at the bottom! 😉
+
 <!--
 **MykeNuLeng/MykeNuLeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

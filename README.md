@@ -11,7 +11,7 @@ To the latter, I hope this brief README gives you all the information you need! 
 
 ✔ My most recent project was [cybrdrag](https://github.com/ehwus/cybrdrag), which is a fantasy football style browser game, where you find yourself as an investor choosing between an eclectic group of randomly generated drag queens.
 
-💡 My next project idea is to create a website for my CV with a chatbot included to answer FAQs! I'm really excited to get to work on this, mainly becasue I don't yet know how I'm going to implement the chatbot. It seems like a really fun problem to tackle, so I'm really looking forward to working on this.
+💡 My next project idea is to create a website for my CV with a chatbot included to answer FAQs! I'm really excited to get to work on this, mainly because I don't yet know how I'm going to implement the chatbot. It seems like a really fun problem to tackle, so I'm really looking forward to working on this.
 
 📚In 2021 I want to learn the following:
 

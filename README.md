@@ -21,7 +21,7 @@ To the latter, I hope this brief README gives you all the information you need! 
 - [ ] GraphQL - A front end framework to handle those stunning apis.
 - [ ] Haskell - When I heard about lambda calculus, you already know I had to add this to the list.
 
-If you've not yet seen it, here's my [CV](./CV.pdf), my contact details are included at the bottom! 😉
+If you've not yet seen it, here's my [CV](./CV-9.pdf), my contact details are included at the bottom! 😉
 
 My pronouns are he/him, and I hope you have a great day! ❤
 
